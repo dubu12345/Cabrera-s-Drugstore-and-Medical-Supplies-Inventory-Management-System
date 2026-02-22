@@ -1,0 +1,6 @@
+Myka - Myka Clinic	09383923849	St. maligaya, Barangay V, D.C.N	Myka@gmail.com
+Ann - Drugstore	09384732347	St. Tahimik, Brgy. V, D.C.N	Ann@gmail.com
+Jordan - Pharmacy	097483846239	St. Mabuhay, Barangay I, D.C.N	Jordan@gmail.com
+Ylena - clinic	0937283923	St. Tambo, Barangay VI, D.C.N	Ylena@gmail.com
+samantha- pharmacy	092283629123	Barangay II	S@gmail.com
+	2	2	2

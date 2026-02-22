@@ -1,0 +1,24 @@
+NAMES	BRAND	PURCHASE PRICE	SALES PRICE	STOCK	EXPIRY DATE
+Amlodipine/Benazepril capsule	Lotrel	0.53	5.0	500	2025-05-23
+Captopril tablet	Capoten	2.0	6.0	300	2027-02-22
+Diclofenac ER tablet	Voltaren XR	9.0	18.0	350	2026-02-23
+Celecoxib	Celebrex	3.0	10.0	40	2029-12-12
+Naproxen	OxyContin	12.0	40.0	200	2028-12-06
+Ibuprofen	Advil	10.0	20.0	800	2029-12-12
+Cetirizine	Zyrtex	18.0	35.0	50	2026-06-23
+Loratadine	Claritin	20.0	40.0	30	2026-08-18
+Atorvastatin	Lipitor	60.0	160.0	65	2025-05-26
+Metformin	Glucophage	40.0	80.0	70	2025-04-23
+Losartan	Cozaar	50.0	100.0	0	2026-12-21
+Metronidazole	Flagyl	25.0	50.0	10	2025-12-12
+Loperamide	Imodium	30.0	60.0	100	2025-12-14
+Ciprofloxacin	Cipro	70.0	140.0	300	2027-02-22
+Simvastatin	Zocor	45.0	90.0	300	2027-12-18
+Medicol	forte	89.0	203.0	20	2027-05-20
+Bisacodyl	Codil	20.0	40.0	200	2025-05-20
+Plemex	Mex	8.0	16.0	0	2025-05-21
+Paracetamol	Advil	10.0	20.0	100	2027-05-10
+CeteriAnn	Chanel	1.0E7	1.0E16	1	5050-12-09
+Celine	biogesic	10.0	20.0	150	2026-05-10
+Pangit	Danah	10.0	20.0	1	2025-05-29
+1	1	1.0	1.0	1	2026-02-22
