@@ -1,0 +1,19 @@
+tenten (simon)	2025-05-11	Added	20	Details
+Amlodipine/Benazepril capsule (Lotrel)	2025-05-20	Restock	500	Details
+captopril tablet (Capoten)	2025-05-20	Restock	297	Details
+diclofenac ER tablet (Voltaren XR)	2025-05-20	Restock	331	Details
+Ibuprofen (Advil)	2025-05-20	Restock	786	Details
+Cetirizine (Zyrtex)	2025-05-20	Restock	38	Details
+Loratadine (Claritin)	2025-05-20	Restock	18	Details
+Losartan (Cozaar)	2025-05-20	Out of Stock	0	Details
+Loperamide (Imodium)	2025-05-20	Restock	76	Details
+Ciprofloxacin (Cipro)	2025-05-20	Restock	298	Details
+Simvastatin (Zocor)	2025-05-20	Restock	200	Details
+Plemex (Mex)	2025-05-22	Restock	30	Details
+Plemex (Mex)	2025-05-22	Out of Stock	0	Details
+Paracetamol (Advil)	2025-05-22	Added	100	Details
+CeteriAnn (Chanel)	2025-05-22	Added	1	Details
+CeteriAnn (Chanel)	2025-05-22	Out of Stock	0	Details
+CeteriAnn (Chanel)	2025-05-22	Restock	1	Details
+Celine (biogesic)	2025-05-23	Added	100	Details
+Celine (biogesic)	2025-05-23	Restock	50	Details
